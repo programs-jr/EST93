@@ -62,7 +62,7 @@
         height: 50px;
         transition-property: margin-top, height;
         transition-duration: 1s;
-        padding: 0 !important;
+        padding: 2px !important;
         border: 3px solid transparent;
         margin-top: 20px;
     }
