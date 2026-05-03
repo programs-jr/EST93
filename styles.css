@@ -59,17 +59,17 @@
         display: flex;
         flex-flow: column;
         overflow: hidden;
-        height: 50px;
+        height: 45px;
         transition-property: margin-top, height;
         transition-duration: 1s;
-        padding: 2px !important;
+        padding: 0 !important;
         border: 3px solid transparent;
         margin-top: 20px;
     }
 
     .pags2:hover {
         height: auto;
-        margin-top: 75%;
+        margin-top: 70%;
         margin-right: 30px;
         background-color: #828282;
         border-radius: 10px;
