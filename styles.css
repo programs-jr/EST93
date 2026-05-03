@@ -30,6 +30,12 @@
 
     aside {
         display: none;
+        gap: 100px;
+        transition: gap 1s;
+    }
+
+    aside:hover {
+        gap: 0;
     }
 
     .marca {
