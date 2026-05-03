@@ -1,6 +1,6 @@
 /* media queries/flexibilidad */
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 768px) {
     header {
         margin-top: 30px;
     }
@@ -724,7 +724,7 @@ hr {
 
 /* flex-tablet */
 
-@media screen and (min-width: 550px) and (max-width: 950px) {
+@media screen and (min-width: 768px) and (max-width: 990px) {
     header {
         max-width: 100%;
         margin-top: -10px;
