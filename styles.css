@@ -300,7 +300,39 @@ hr {
     color: #874421;
     border: 3px solid #874421;
 }
-.pag:hover {
+.pagsec:hover {
+    background-color: #eee;
+    color: black;
+    outline: 2px solid white;
+    outline-offset: 0;
+    border-color: white;
+}
+
+.pagAct:hover {
+    background-color: #eee;
+    color: black;
+    outline: 2px solid white;
+    outline-offset: 0;
+    border-color: white;
+}
+
+.pagPer:hover {
+    background-color: #eee;
+    color: black;
+    outline: 2px solid white;
+    outline-offset: 0;
+    border-color: white;
+}
+
+.pagTec:hover {
+    background-color: #eee;
+    color: black;
+    outline: 2px solid white;
+    outline-offset: 0;
+    border-color: white;
+}
+
+.pagHor:hover {
     background-color: #eee;
     color: black;
     outline: 2px solid white;
@@ -474,7 +506,7 @@ header {
     border-radius: 12px;
 }
 
-.pag {
+.pagsec, .pagAct, .pagPer, .pagTec, .pagHor {
     background-color: #fff2;
     color: white;
     text-align: center;
@@ -529,6 +561,7 @@ aside {
     align-items: center;
     border: none;
     margin-bottom: 10px;
+   background-color: transparent;
 }
 
 .indice {
